@@ -1,0 +1,11 @@
+/* styles.css */
+
+/* Center the paragraph text */
+p {
+    text-align: center;
+}
+
+/* Change the color of the paragraph text to blue */
+p {
+    color: blue;
+}
